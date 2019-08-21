@@ -13,6 +13,11 @@ const taskData = [
     id: 1528817084358,
     completed: false
   }
+  {
+    task: 'Example Task',
+    id: 1528817084444,
+    completed: false
+  }
 ];
 
 class App extends React.Component {
