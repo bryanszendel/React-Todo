@@ -14,7 +14,7 @@ const taskData = [
     completed: false
   },
   {
-    task: "Learn how to use Zeit",
+    task: "Learn how to use Zeit :)",
     id: 1528817324324,
     completed: false
   }
